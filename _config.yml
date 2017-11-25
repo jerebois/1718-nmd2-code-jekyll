@@ -1,0 +1,4 @@
+# Handling Reading
+exclude:
+  - 'Gemfile'
+  - 'Gemfile.lock'
